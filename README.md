@@ -1,4 +1,4 @@
-# pictureSorter
+# Picture Sorter
 Python script to sort pictures (and virtually any file) years by years
 
 How it works:
