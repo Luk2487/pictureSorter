@@ -1,10 +1,10 @@
 # Picture Sorter
 Python script to sort pictures (and virtually any file) years by years
 
-How it works:
-
-  -Run it and head into the config, then set the input folder (where your files are), and the output directory (where 2020, 2021... folders will be created).
-  
-  -Choose wether or not to handle folder (if true, the script will go inside any folder and pick it's content instead of copying it)
-  
-  -Go back and run it
+## Usage
+### How to run
+**Download it and run it with a python interpreter**
+### What does it do
+**It sort all of the files from a folder in years folders following their metadata**
+It was originally meant to sort photos
+**You can configure it to go into any folder more than copying it**
